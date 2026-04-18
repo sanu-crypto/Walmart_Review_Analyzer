@@ -1,0 +1,6 @@
+review,cleaned_review,predicted_sentiment,confidence_percent,review_type
+"Excellent product, I am very satisfied.","excellent product, i am very satisfied.",Negative,43.82,Genuine
+"It is okay, not bad but not great.","it is okay, not bad but not great.",Negative,44.78,Genuine
+Very poor quality and complete waste of money.,very poor quality and complete waste of money.,Negative,45.95,Genuine
+Nice,nice,Negative,42.02,Fake
+Worst purchase ever!!! !!!,worst purchase ever!!! !!!,Negative,44.73,Fake

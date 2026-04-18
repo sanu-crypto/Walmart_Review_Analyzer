@@ -1,0 +1,1001 @@
+review_id,product,rating,review_text,clean_review,sentiment,label,review_type
+1,Fitness Tracker,2,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+2,Fitness Tracker,4,Good value for money.,good value for money.,Positive,2,Genuine
+3,Fitness Tracker,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+4,Wireless Earbuds,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+5,Smartphone Case,4,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+6,Mechanical Keyboard,4,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+7,Smartphone Case,2,Works as advertised.,works as advertised.,Negative,0,Genuine
+8,Fitness Tracker,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+9,Gaming Mouse,5,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+10,Wireless Earbuds,1,Would not buy again.,would not buy again.,Negative,0,Genuine
+11,Fitness Tracker,1,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+12,Smartwatch,1,Good value for money.,good value for money.,Negative,0,Genuine
+13,Portable Charger,5,Would not buy again.,would not buy again.,Positive,2,Genuine
+14,Mechanical Keyboard,4,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+15,Gaming Mouse,1,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+16,Gaming Mouse,1,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+17,Smartwatch,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+18,Fitness Tracker,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+19,Gaming Mouse,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+20,Smartwatch,5,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+21,Mechanical Keyboard,1,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+22,Bluetooth Speaker,4,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+23,Bluetooth Speaker,3,Exceeded my expectations!,exceeded my expectations!,Neutral,1,Genuine
+24,Portable Charger,3,Excellent quality and fast delivery.,excellent quality and fast delivery.,Neutral,1,Genuine
+25,Mechanical Keyboard,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+26,Laptop Stand,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+27,Wireless Earbuds,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+28,Mechanical Keyboard,3,Good value for money.,good value for money.,Neutral,1,Genuine
+29,Laptop Stand,5,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+30,Smartphone Case,2,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+31,Wireless Earbuds,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+32,Fitness Tracker,1,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+33,LED Monitor,2,Works as advertised.,works as advertised.,Negative,0,Genuine
+34,Gaming Mouse,3,Works as advertised.,works as advertised.,Neutral,1,Genuine
+35,Wireless Earbuds,3,Would not buy again.,would not buy again.,Neutral,1,Genuine
+36,Gaming Mouse,1,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+37,Wireless Earbuds,3,Works as advertised.,works as advertised.,Neutral,1,Genuine
+38,Fitness Tracker,5,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+39,Smartphone Case,5,Good value for money.,good value for money.,Positive,2,Genuine
+40,Laptop Stand,4,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+41,Fitness Tracker,2,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+42,Wireless Earbuds,5,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+43,Bluetooth Speaker,4,Works as advertised.,works as advertised.,Positive,2,Genuine
+44,Smartphone Case,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+45,Bluetooth Speaker,4,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+46,Wireless Earbuds,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+47,Smartwatch,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+48,Fitness Tracker,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+49,Fitness Tracker,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+50,Gaming Mouse,3,Not satisfied with the build quality.,not satisfied with the build quality.,Neutral,1,Genuine
+51,Smartwatch,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+52,Smartphone Case,4,Good value for money.,good value for money.,Positive,2,Genuine
+53,LED Monitor,4,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+54,Laptop Stand,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+55,Bluetooth Speaker,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+56,Mechanical Keyboard,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+57,Gaming Mouse,3,Not satisfied with the build quality.,not satisfied with the build quality.,Neutral,1,Genuine
+58,Laptop Stand,5,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+59,Fitness Tracker,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+60,Bluetooth Speaker,1,Would not buy again.,would not buy again.,Negative,0,Genuine
+61,Mechanical Keyboard,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+62,Gaming Mouse,5,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+63,Bluetooth Speaker,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+64,Mechanical Keyboard,2,Works as advertised.,works as advertised.,Negative,0,Genuine
+65,Portable Charger,1,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+66,Smartphone Case,3,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Neutral,1,Genuine
+67,Bluetooth Speaker,5,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+68,Smartwatch,2,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+69,Gaming Mouse,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+70,LED Monitor,1,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+71,Fitness Tracker,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+72,LED Monitor,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+73,Gaming Mouse,4,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+74,Gaming Mouse,4,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+75,Portable Charger,3,Excellent quality and fast delivery.,excellent quality and fast delivery.,Neutral,1,Genuine
+76,Smartwatch,3,"Average product, expected better.","average product, expected better.",Neutral,1,Genuine
+77,Portable Charger,4,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+78,Laptop Stand,1,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+79,Mechanical Keyboard,3,Good value for money.,good value for money.,Neutral,1,Genuine
+80,Fitness Tracker,1,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+81,Portable Charger,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+82,LED Monitor,3,Works as advertised.,works as advertised.,Neutral,1,Genuine
+83,LED Monitor,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+84,Mechanical Keyboard,1,Works as advertised.,works as advertised.,Negative,0,Genuine
+85,Wireless Earbuds,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+86,Smartwatch,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+87,Smartwatch,2,Works as advertised.,works as advertised.,Negative,0,Genuine
+88,Gaming Mouse,3,Works as advertised.,works as advertised.,Neutral,1,Genuine
+89,LED Monitor,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+90,Wireless Earbuds,1,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+91,Wireless Earbuds,2,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+92,Portable Charger,2,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+93,Gaming Mouse,3,Good value for money.,good value for money.,Neutral,1,Genuine
+94,Gaming Mouse,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+95,Laptop Stand,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+96,Laptop Stand,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+97,Fitness Tracker,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+98,Gaming Mouse,5,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+99,Smartphone Case,3,Not satisfied with the build quality.,not satisfied with the build quality.,Neutral,1,Genuine
+100,Fitness Tracker,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+101,Portable Charger,4,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+102,Mechanical Keyboard,3,"Average product, expected better.","average product, expected better.",Neutral,1,Genuine
+103,LED Monitor,5,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+104,Bluetooth Speaker,5,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+105,Laptop Stand,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+106,Wireless Earbuds,2,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+107,Mechanical Keyboard,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+108,Smartphone Case,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+109,Bluetooth Speaker,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+110,Smartphone Case,3,Exceeded my expectations!,exceeded my expectations!,Neutral,1,Genuine
+111,Bluetooth Speaker,5,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+112,Portable Charger,5,Works as advertised.,works as advertised.,Positive,2,Genuine
+113,Laptop Stand,2,Works as advertised.,works as advertised.,Negative,0,Genuine
+114,Bluetooth Speaker,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+115,Laptop Stand,3,Would not buy again.,would not buy again.,Neutral,1,Genuine
+116,Fitness Tracker,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+117,Bluetooth Speaker,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+118,LED Monitor,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+119,Smartwatch,1,Good value for money.,good value for money.,Negative,0,Genuine
+120,Gaming Mouse,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+121,Fitness Tracker,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+122,Laptop Stand,4,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+123,Wireless Earbuds,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+124,Fitness Tracker,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+125,Laptop Stand,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+126,LED Monitor,3,Works as advertised.,works as advertised.,Neutral,1,Genuine
+127,Portable Charger,2,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+128,Mechanical Keyboard,5,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+129,Portable Charger,4,Good value for money.,good value for money.,Positive,2,Genuine
+130,Smartphone Case,3,"Average product, expected better.","average product, expected better.",Neutral,1,Genuine
+131,Fitness Tracker,1,Works as advertised.,works as advertised.,Negative,0,Genuine
+132,Smartphone Case,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+133,Wireless Earbuds,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+134,Portable Charger,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+135,Smartphone Case,4,Good value for money.,good value for money.,Positive,2,Genuine
+136,Wireless Earbuds,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+137,Laptop Stand,4,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+138,Smartphone Case,2,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+139,Bluetooth Speaker,3,Exceeded my expectations!,exceeded my expectations!,Neutral,1,Genuine
+140,Gaming Mouse,5,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+141,Wireless Earbuds,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+142,Laptop Stand,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+143,Bluetooth Speaker,3,Would not buy again.,would not buy again.,Neutral,1,Genuine
+144,Laptop Stand,2,Works as advertised.,works as advertised.,Negative,0,Genuine
+145,LED Monitor,5,Good value for money.,good value for money.,Positive,2,Genuine
+146,Wireless Earbuds,5,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+147,Portable Charger,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+148,Wireless Earbuds,5,Works as advertised.,works as advertised.,Positive,2,Genuine
+149,Bluetooth Speaker,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+150,Bluetooth Speaker,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+151,Portable Charger,2,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+152,LED Monitor,1,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+153,Mechanical Keyboard,4,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+154,Smartwatch,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+155,Laptop Stand,4,Good value for money.,good value for money.,Positive,2,Genuine
+156,Gaming Mouse,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+157,Wireless Earbuds,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+158,LED Monitor,4,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+159,Gaming Mouse,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+160,Bluetooth Speaker,2,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+161,Smartphone Case,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+162,Mechanical Keyboard,1,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+163,Gaming Mouse,5,Works as advertised.,works as advertised.,Positive,2,Genuine
+164,Gaming Mouse,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+165,Bluetooth Speaker,5,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+166,LED Monitor,1,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+167,Smartphone Case,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+168,Gaming Mouse,3,Good value for money.,good value for money.,Neutral,1,Genuine
+169,Laptop Stand,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+170,Wireless Earbuds,2,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+171,Portable Charger,5,Good value for money.,good value for money.,Positive,2,Genuine
+172,Smartwatch,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+173,Gaming Mouse,3,Would not buy again.,would not buy again.,Neutral,1,Genuine
+174,Mechanical Keyboard,2,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+175,Fitness Tracker,2,Good value for money.,good value for money.,Negative,0,Genuine
+176,Smartwatch,1,Works as advertised.,works as advertised.,Negative,0,Genuine
+177,Mechanical Keyboard,2,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+178,Smartphone Case,2,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+179,Wireless Earbuds,2,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+180,Mechanical Keyboard,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+181,Portable Charger,4,Good value for money.,good value for money.,Positive,2,Genuine
+182,LED Monitor,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+183,Bluetooth Speaker,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+184,Gaming Mouse,1,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+185,Fitness Tracker,2,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+186,LED Monitor,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+187,Portable Charger,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+188,Wireless Earbuds,5,Good value for money.,good value for money.,Positive,2,Genuine
+189,Mechanical Keyboard,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+190,Portable Charger,3,Excellent quality and fast delivery.,excellent quality and fast delivery.,Neutral,1,Genuine
+191,LED Monitor,1,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+192,Smartphone Case,5,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+193,Mechanical Keyboard,2,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+194,Fitness Tracker,5,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+195,Smartwatch,5,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+196,Laptop Stand,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+197,Bluetooth Speaker,5,Good value for money.,good value for money.,Positive,2,Genuine
+198,Portable Charger,4,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+199,Fitness Tracker,5,Would not buy again.,would not buy again.,Positive,2,Genuine
+200,LED Monitor,2,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+201,Mechanical Keyboard,2,Works as advertised.,works as advertised.,Negative,0,Genuine
+202,Smartwatch,5,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+203,Wireless Earbuds,5,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+204,Gaming Mouse,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+205,Smartwatch,5,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+206,Wireless Earbuds,1,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+207,Portable Charger,1,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+208,LED Monitor,5,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+209,Smartwatch,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+210,Wireless Earbuds,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+211,Smartwatch,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+212,LED Monitor,5,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+213,Gaming Mouse,1,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+214,Fitness Tracker,5,Works as advertised.,works as advertised.,Positive,2,Genuine
+215,Smartwatch,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+216,Wireless Earbuds,3,Exceeded my expectations!,exceeded my expectations!,Neutral,1,Genuine
+217,Smartwatch,1,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+218,Wireless Earbuds,4,Good value for money.,good value for money.,Positive,2,Genuine
+219,LED Monitor,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+220,LED Monitor,1,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+221,Smartwatch,3,Would not buy again.,would not buy again.,Neutral,1,Genuine
+222,Bluetooth Speaker,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+223,Gaming Mouse,4,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+224,LED Monitor,5,Works as advertised.,works as advertised.,Positive,2,Genuine
+225,Smartphone Case,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+226,Fitness Tracker,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+227,Wireless Earbuds,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+228,Wireless Earbuds,1,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+229,LED Monitor,4,Works as advertised.,works as advertised.,Positive,2,Genuine
+230,Gaming Mouse,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+231,LED Monitor,1,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+232,Portable Charger,3,Good value for money.,good value for money.,Neutral,1,Genuine
+233,Smartphone Case,5,Would not buy again.,would not buy again.,Positive,2,Genuine
+234,Gaming Mouse,3,"Average product, expected better.","average product, expected better.",Neutral,1,Genuine
+235,LED Monitor,5,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+236,Bluetooth Speaker,3,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Neutral,1,Genuine
+237,Portable Charger,2,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+238,Laptop Stand,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+239,LED Monitor,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+240,Fitness Tracker,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+241,Smartwatch,1,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+242,Portable Charger,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+243,Bluetooth Speaker,1,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+244,Portable Charger,4,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+245,Fitness Tracker,4,Works as advertised.,works as advertised.,Positive,2,Genuine
+246,Fitness Tracker,4,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+247,Laptop Stand,5,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+248,Bluetooth Speaker,5,Works as advertised.,works as advertised.,Positive,2,Genuine
+249,Portable Charger,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+250,Smartphone Case,3,Good value for money.,good value for money.,Neutral,1,Genuine
+251,Wireless Earbuds,5,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+252,Gaming Mouse,3,Would not buy again.,would not buy again.,Neutral,1,Genuine
+253,Fitness Tracker,1,Works as advertised.,works as advertised.,Negative,0,Genuine
+254,Fitness Tracker,2,Good value for money.,good value for money.,Negative,0,Genuine
+255,Gaming Mouse,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+256,Mechanical Keyboard,5,Works as advertised.,works as advertised.,Positive,2,Genuine
+257,Gaming Mouse,5,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+258,Portable Charger,4,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+259,Laptop Stand,4,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+260,Gaming Mouse,4,Good value for money.,good value for money.,Positive,2,Genuine
+261,Smartwatch,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+262,LED Monitor,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+263,Gaming Mouse,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+264,Smartphone Case,1,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+265,Wireless Earbuds,4,Good value for money.,good value for money.,Positive,2,Genuine
+266,Wireless Earbuds,1,Works as advertised.,works as advertised.,Negative,0,Genuine
+267,Mechanical Keyboard,1,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+268,Fitness Tracker,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+269,Mechanical Keyboard,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+270,Bluetooth Speaker,3,Not satisfied with the build quality.,not satisfied with the build quality.,Neutral,1,Genuine
+271,Fitness Tracker,2,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+272,Mechanical Keyboard,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+273,Mechanical Keyboard,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+274,Laptop Stand,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+275,Bluetooth Speaker,2,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+276,Gaming Mouse,2,Good value for money.,good value for money.,Negative,0,Genuine
+277,LED Monitor,5,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+278,Mechanical Keyboard,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+279,Smartphone Case,4,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+280,Smartphone Case,5,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+281,Mechanical Keyboard,3,"Average product, expected better.","average product, expected better.",Neutral,1,Genuine
+282,Wireless Earbuds,2,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+283,LED Monitor,3,"Average product, expected better.","average product, expected better.",Neutral,1,Genuine
+284,Smartphone Case,3,Exceeded my expectations!,exceeded my expectations!,Neutral,1,Genuine
+285,LED Monitor,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+286,Fitness Tracker,5,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+287,Mechanical Keyboard,2,Good value for money.,good value for money.,Negative,0,Genuine
+288,LED Monitor,1,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+289,Bluetooth Speaker,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+290,Smartwatch,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+291,Fitness Tracker,4,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+292,Mechanical Keyboard,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+293,Bluetooth Speaker,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+294,Portable Charger,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+295,Laptop Stand,1,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+296,Wireless Earbuds,1,Would not buy again.,would not buy again.,Negative,0,Genuine
+297,Bluetooth Speaker,2,Works as advertised.,works as advertised.,Negative,0,Genuine
+298,LED Monitor,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+299,Wireless Earbuds,1,Would not buy again.,would not buy again.,Negative,0,Genuine
+300,Mechanical Keyboard,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+301,Smartwatch,1,Would not buy again.,would not buy again.,Negative,0,Genuine
+302,Smartphone Case,4,Works as advertised.,works as advertised.,Positive,2,Genuine
+303,LED Monitor,3,Works as advertised.,works as advertised.,Neutral,1,Genuine
+304,Smartphone Case,1,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+305,Portable Charger,4,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+306,Smartphone Case,2,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+307,LED Monitor,4,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+308,LED Monitor,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+309,Gaming Mouse,2,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+310,Laptop Stand,2,Works as advertised.,works as advertised.,Negative,0,Genuine
+311,Laptop Stand,1,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+312,Bluetooth Speaker,4,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+313,Wireless Earbuds,4,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+314,Smartphone Case,3,Would not buy again.,would not buy again.,Neutral,1,Genuine
+315,Fitness Tracker,4,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+316,Smartphone Case,1,Would not buy again.,would not buy again.,Negative,0,Genuine
+317,Bluetooth Speaker,3,Good value for money.,good value for money.,Neutral,1,Genuine
+318,Bluetooth Speaker,4,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+319,Gaming Mouse,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+320,Smartwatch,5,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+321,Gaming Mouse,3,Excellent quality and fast delivery.,excellent quality and fast delivery.,Neutral,1,Genuine
+322,LED Monitor,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+323,Smartphone Case,3,Works as advertised.,works as advertised.,Neutral,1,Genuine
+324,Smartphone Case,2,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+325,Bluetooth Speaker,4,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+326,Smartphone Case,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+327,LED Monitor,1,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+328,LED Monitor,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+329,Smartphone Case,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+330,Portable Charger,4,Good value for money.,good value for money.,Positive,2,Genuine
+331,Bluetooth Speaker,5,Would not buy again.,would not buy again.,Positive,2,Genuine
+332,Smartwatch,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+333,Mechanical Keyboard,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+334,Portable Charger,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+335,LED Monitor,1,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+336,Smartwatch,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+337,Gaming Mouse,3,Good value for money.,good value for money.,Neutral,1,Genuine
+338,Laptop Stand,3,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Neutral,1,Genuine
+339,Wireless Earbuds,1,Good value for money.,good value for money.,Negative,0,Genuine
+340,Wireless Earbuds,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+341,Gaming Mouse,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+342,Gaming Mouse,5,Works as advertised.,works as advertised.,Positive,2,Genuine
+343,Smartphone Case,2,Works as advertised.,works as advertised.,Negative,0,Genuine
+344,Wireless Earbuds,2,Good value for money.,good value for money.,Negative,0,Genuine
+345,Gaming Mouse,5,Works as advertised.,works as advertised.,Positive,2,Genuine
+346,Laptop Stand,3,Would not buy again.,would not buy again.,Neutral,1,Genuine
+347,Laptop Stand,3,Works as advertised.,works as advertised.,Neutral,1,Genuine
+348,Wireless Earbuds,5,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+349,Laptop Stand,4,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+350,LED Monitor,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+351,Gaming Mouse,1,Good value for money.,good value for money.,Negative,0,Genuine
+352,Wireless Earbuds,1,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+353,Smartphone Case,3,Excellent quality and fast delivery.,excellent quality and fast delivery.,Neutral,1,Genuine
+354,Gaming Mouse,3,Exceeded my expectations!,exceeded my expectations!,Neutral,1,Genuine
+355,Laptop Stand,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+356,Smartphone Case,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+357,Gaming Mouse,1,Good value for money.,good value for money.,Negative,0,Genuine
+358,Gaming Mouse,1,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+359,Smartphone Case,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+360,Fitness Tracker,2,Good value for money.,good value for money.,Negative,0,Genuine
+361,Fitness Tracker,3,Good value for money.,good value for money.,Neutral,1,Genuine
+362,Laptop Stand,2,Good value for money.,good value for money.,Negative,0,Genuine
+363,Mechanical Keyboard,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+364,Smartphone Case,2,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+365,Laptop Stand,5,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+366,Fitness Tracker,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+367,Portable Charger,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+368,Smartphone Case,1,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+369,Mechanical Keyboard,2,Good value for money.,good value for money.,Negative,0,Genuine
+370,LED Monitor,5,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+371,LED Monitor,1,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+372,Portable Charger,5,Good value for money.,good value for money.,Positive,2,Genuine
+373,Mechanical Keyboard,4,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+374,Bluetooth Speaker,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+375,Wireless Earbuds,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+376,Smartphone Case,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+377,Laptop Stand,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+378,LED Monitor,3,Excellent quality and fast delivery.,excellent quality and fast delivery.,Neutral,1,Genuine
+379,LED Monitor,1,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+380,Smartwatch,2,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+381,Mechanical Keyboard,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+382,Smartwatch,5,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+383,Fitness Tracker,2,Good value for money.,good value for money.,Negative,0,Genuine
+384,Bluetooth Speaker,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+385,LED Monitor,2,Good value for money.,good value for money.,Negative,0,Genuine
+386,Laptop Stand,3,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Neutral,1,Genuine
+387,Laptop Stand,5,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+388,Mechanical Keyboard,3,Works as advertised.,works as advertised.,Neutral,1,Genuine
+389,Laptop Stand,1,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+390,Fitness Tracker,3,Not satisfied with the build quality.,not satisfied with the build quality.,Neutral,1,Genuine
+391,Gaming Mouse,5,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+392,Gaming Mouse,2,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+393,Laptop Stand,1,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+394,Portable Charger,2,Good value for money.,good value for money.,Negative,0,Genuine
+395,Gaming Mouse,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+396,LED Monitor,1,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+397,Gaming Mouse,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+398,Fitness Tracker,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+399,Gaming Mouse,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+400,Bluetooth Speaker,3,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Neutral,1,Genuine
+401,Smartphone Case,3,Good value for money.,good value for money.,Neutral,1,Genuine
+402,Fitness Tracker,1,Would not buy again.,would not buy again.,Negative,0,Genuine
+403,Mechanical Keyboard,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+404,Laptop Stand,4,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+405,Bluetooth Speaker,1,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+406,Portable Charger,5,Works as advertised.,works as advertised.,Positive,2,Genuine
+407,Bluetooth Speaker,3,Not satisfied with the build quality.,not satisfied with the build quality.,Neutral,1,Genuine
+408,Portable Charger,3,Exceeded my expectations!,exceeded my expectations!,Neutral,1,Genuine
+409,Gaming Mouse,3,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Neutral,1,Genuine
+410,Portable Charger,4,Good value for money.,good value for money.,Positive,2,Genuine
+411,Laptop Stand,5,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+412,Smartwatch,3,Would not buy again.,would not buy again.,Neutral,1,Genuine
+413,Portable Charger,3,Not satisfied with the build quality.,not satisfied with the build quality.,Neutral,1,Genuine
+414,Smartwatch,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+415,Portable Charger,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+416,Gaming Mouse,3,Not satisfied with the build quality.,not satisfied with the build quality.,Neutral,1,Genuine
+417,Mechanical Keyboard,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+418,Mechanical Keyboard,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+419,Fitness Tracker,5,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+420,Wireless Earbuds,2,Good value for money.,good value for money.,Negative,0,Genuine
+421,Smartwatch,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+422,Fitness Tracker,2,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+423,Portable Charger,4,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+424,Smartphone Case,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+425,Smartphone Case,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+426,Wireless Earbuds,3,Exceeded my expectations!,exceeded my expectations!,Neutral,1,Genuine
+427,Fitness Tracker,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+428,Gaming Mouse,4,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+429,Bluetooth Speaker,5,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+430,Mechanical Keyboard,4,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+431,Bluetooth Speaker,1,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+432,Gaming Mouse,2,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+433,Smartwatch,3,Good value for money.,good value for money.,Neutral,1,Genuine
+434,Portable Charger,1,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+435,Wireless Earbuds,5,Works as advertised.,works as advertised.,Positive,2,Genuine
+436,Smartwatch,3,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Neutral,1,Genuine
+437,Bluetooth Speaker,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+438,LED Monitor,1,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+439,Fitness Tracker,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+440,Wireless Earbuds,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+441,Wireless Earbuds,3,Good value for money.,good value for money.,Neutral,1,Genuine
+442,Mechanical Keyboard,5,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+443,Bluetooth Speaker,4,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+444,Smartphone Case,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+445,Portable Charger,1,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+446,Smartwatch,5,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+447,Mechanical Keyboard,3,Works as advertised.,works as advertised.,Neutral,1,Genuine
+448,Smartwatch,3,Exceeded my expectations!,exceeded my expectations!,Neutral,1,Genuine
+449,Portable Charger,5,Good value for money.,good value for money.,Positive,2,Genuine
+450,Smartwatch,1,Would not buy again.,would not buy again.,Negative,0,Genuine
+451,Mechanical Keyboard,5,Would not buy again.,would not buy again.,Positive,2,Genuine
+452,Laptop Stand,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+453,Smartwatch,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+454,LED Monitor,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+455,Wireless Earbuds,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+456,Bluetooth Speaker,4,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+457,Smartphone Case,4,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+458,Fitness Tracker,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+459,Bluetooth Speaker,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+460,Smartwatch,2,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+461,Laptop Stand,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+462,Bluetooth Speaker,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+463,Fitness Tracker,1,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+464,Fitness Tracker,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+465,Smartwatch,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+466,Wireless Earbuds,2,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+467,Smartwatch,4,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+468,Smartphone Case,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+469,Gaming Mouse,1,Would not buy again.,would not buy again.,Negative,0,Genuine
+470,Smartwatch,1,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+471,Fitness Tracker,4,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+472,Bluetooth Speaker,4,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+473,Gaming Mouse,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+474,Mechanical Keyboard,3,"Average product, expected better.","average product, expected better.",Neutral,1,Genuine
+475,Fitness Tracker,2,Good value for money.,good value for money.,Negative,0,Genuine
+476,Gaming Mouse,3,Would not buy again.,would not buy again.,Neutral,1,Genuine
+477,Portable Charger,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+478,LED Monitor,1,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+479,Gaming Mouse,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+480,Fitness Tracker,4,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+481,LED Monitor,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+482,Laptop Stand,1,Works as advertised.,works as advertised.,Negative,0,Genuine
+483,Gaming Mouse,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+484,Bluetooth Speaker,2,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+485,Portable Charger,3,Works as advertised.,works as advertised.,Neutral,1,Genuine
+486,Wireless Earbuds,2,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+487,Portable Charger,4,Good value for money.,good value for money.,Positive,2,Genuine
+488,Bluetooth Speaker,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+489,Smartphone Case,4,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+490,Gaming Mouse,2,Works as advertised.,works as advertised.,Negative,0,Genuine
+491,Wireless Earbuds,5,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+492,Laptop Stand,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+493,Fitness Tracker,4,Works as advertised.,works as advertised.,Positive,2,Genuine
+494,Bluetooth Speaker,3,Good value for money.,good value for money.,Neutral,1,Genuine
+495,Fitness Tracker,5,Good value for money.,good value for money.,Positive,2,Genuine
+496,LED Monitor,1,Good value for money.,good value for money.,Negative,0,Genuine
+497,Fitness Tracker,5,Would not buy again.,would not buy again.,Positive,2,Genuine
+498,Mechanical Keyboard,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+499,Wireless Earbuds,1,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+500,Fitness Tracker,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+501,Wireless Earbuds,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+502,Portable Charger,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+503,Gaming Mouse,3,Good value for money.,good value for money.,Neutral,1,Genuine
+504,Laptop Stand,2,Works as advertised.,works as advertised.,Negative,0,Genuine
+505,Smartphone Case,2,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+506,Wireless Earbuds,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+507,Bluetooth Speaker,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+508,Fitness Tracker,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+509,Bluetooth Speaker,1,Good value for money.,good value for money.,Negative,0,Genuine
+510,Smartphone Case,1,Would not buy again.,would not buy again.,Negative,0,Genuine
+511,Gaming Mouse,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+512,Smartwatch,1,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+513,Bluetooth Speaker,4,Good value for money.,good value for money.,Positive,2,Genuine
+514,Fitness Tracker,1,Would not buy again.,would not buy again.,Negative,0,Genuine
+515,Smartwatch,3,Exceeded my expectations!,exceeded my expectations!,Neutral,1,Genuine
+516,Laptop Stand,1,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+517,LED Monitor,2,Good value for money.,good value for money.,Negative,0,Genuine
+518,Fitness Tracker,4,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+519,Smartwatch,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+520,Portable Charger,4,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+521,Smartphone Case,3,Excellent quality and fast delivery.,excellent quality and fast delivery.,Neutral,1,Genuine
+522,Mechanical Keyboard,1,Good value for money.,good value for money.,Negative,0,Genuine
+523,Fitness Tracker,1,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+524,Smartphone Case,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+525,Mechanical Keyboard,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+526,Bluetooth Speaker,1,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+527,Fitness Tracker,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+528,Wireless Earbuds,1,Would not buy again.,would not buy again.,Negative,0,Genuine
+529,Smartphone Case,3,Not satisfied with the build quality.,not satisfied with the build quality.,Neutral,1,Genuine
+530,Laptop Stand,2,Works as advertised.,works as advertised.,Negative,0,Genuine
+531,Gaming Mouse,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+532,Smartphone Case,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+533,Laptop Stand,4,Good value for money.,good value for money.,Positive,2,Genuine
+534,Gaming Mouse,3,Good value for money.,good value for money.,Neutral,1,Genuine
+535,Laptop Stand,5,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+536,Portable Charger,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+537,Smartwatch,3,Not satisfied with the build quality.,not satisfied with the build quality.,Neutral,1,Genuine
+538,Gaming Mouse,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+539,Laptop Stand,4,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+540,Portable Charger,4,Good value for money.,good value for money.,Positive,2,Genuine
+541,Fitness Tracker,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+542,Gaming Mouse,5,Works as advertised.,works as advertised.,Positive,2,Genuine
+543,Laptop Stand,3,Would not buy again.,would not buy again.,Neutral,1,Genuine
+544,Gaming Mouse,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+545,Mechanical Keyboard,1,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+546,Fitness Tracker,1,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+547,Gaming Mouse,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+548,Mechanical Keyboard,1,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+549,Portable Charger,3,Not satisfied with the build quality.,not satisfied with the build quality.,Neutral,1,Genuine
+550,Mechanical Keyboard,2,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+551,Fitness Tracker,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+552,Wireless Earbuds,1,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+553,Laptop Stand,5,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+554,Smartwatch,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+555,Bluetooth Speaker,1,Good value for money.,good value for money.,Negative,0,Genuine
+556,Mechanical Keyboard,3,Good value for money.,good value for money.,Neutral,1,Genuine
+557,Portable Charger,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+558,Portable Charger,3,"Average product, expected better.","average product, expected better.",Neutral,1,Genuine
+559,Gaming Mouse,4,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+560,Fitness Tracker,3,Excellent quality and fast delivery.,excellent quality and fast delivery.,Neutral,1,Genuine
+561,Wireless Earbuds,1,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+562,Gaming Mouse,4,Works as advertised.,works as advertised.,Positive,2,Genuine
+563,Portable Charger,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+564,Wireless Earbuds,3,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Neutral,1,Genuine
+565,LED Monitor,1,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+566,Laptop Stand,1,Good value for money.,good value for money.,Negative,0,Genuine
+567,Gaming Mouse,2,Good value for money.,good value for money.,Negative,0,Genuine
+568,Fitness Tracker,3,Works as advertised.,works as advertised.,Neutral,1,Genuine
+569,Fitness Tracker,3,Good value for money.,good value for money.,Neutral,1,Genuine
+570,Bluetooth Speaker,5,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+571,Laptop Stand,3,Good value for money.,good value for money.,Neutral,1,Genuine
+572,Wireless Earbuds,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+573,Portable Charger,5,Good value for money.,good value for money.,Positive,2,Genuine
+574,LED Monitor,5,Good value for money.,good value for money.,Positive,2,Genuine
+575,Bluetooth Speaker,3,Not satisfied with the build quality.,not satisfied with the build quality.,Neutral,1,Genuine
+576,Bluetooth Speaker,4,Works as advertised.,works as advertised.,Positive,2,Genuine
+577,LED Monitor,3,Good value for money.,good value for money.,Neutral,1,Genuine
+578,Laptop Stand,1,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+579,Wireless Earbuds,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+580,Mechanical Keyboard,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+581,Bluetooth Speaker,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+582,Bluetooth Speaker,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+583,Gaming Mouse,4,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+584,Smartwatch,1,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+585,Gaming Mouse,4,Good value for money.,good value for money.,Positive,2,Genuine
+586,Smartwatch,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+587,Fitness Tracker,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+588,Gaming Mouse,5,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+589,Bluetooth Speaker,2,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+590,Gaming Mouse,5,Works as advertised.,works as advertised.,Positive,2,Genuine
+591,Gaming Mouse,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+592,Wireless Earbuds,2,Works as advertised.,works as advertised.,Negative,0,Genuine
+593,Smartphone Case,1,Works as advertised.,works as advertised.,Negative,0,Genuine
+594,Mechanical Keyboard,1,Would not buy again.,would not buy again.,Negative,0,Genuine
+595,Laptop Stand,3,Would not buy again.,would not buy again.,Neutral,1,Genuine
+596,Bluetooth Speaker,4,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+597,Portable Charger,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+598,Mechanical Keyboard,1,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+599,Mechanical Keyboard,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+600,Gaming Mouse,4,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+601,Portable Charger,3,"Average product, expected better.","average product, expected better.",Neutral,1,Genuine
+602,Gaming Mouse,4,Works as advertised.,works as advertised.,Positive,2,Genuine
+603,Mechanical Keyboard,1,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+604,Fitness Tracker,1,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+605,LED Monitor,3,"Average product, expected better.","average product, expected better.",Neutral,1,Genuine
+606,Gaming Mouse,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+607,Portable Charger,1,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+608,Wireless Earbuds,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+609,Portable Charger,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+610,Bluetooth Speaker,5,Works as advertised.,works as advertised.,Positive,2,Genuine
+611,Bluetooth Speaker,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+612,Gaming Mouse,4,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+613,Wireless Earbuds,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+614,Smartwatch,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+615,Laptop Stand,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+616,Mechanical Keyboard,2,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+617,Fitness Tracker,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+618,Bluetooth Speaker,5,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+619,Laptop Stand,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+620,LED Monitor,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+621,Smartwatch,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+622,Smartphone Case,1,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+623,LED Monitor,4,Works as advertised.,works as advertised.,Positive,2,Genuine
+624,Mechanical Keyboard,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+625,Fitness Tracker,4,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+626,Gaming Mouse,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+627,Fitness Tracker,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+628,Portable Charger,3,Excellent quality and fast delivery.,excellent quality and fast delivery.,Neutral,1,Genuine
+629,Bluetooth Speaker,2,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+630,Fitness Tracker,5,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+631,Laptop Stand,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+632,Gaming Mouse,1,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+633,Wireless Earbuds,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+634,Mechanical Keyboard,5,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+635,Wireless Earbuds,2,Good value for money.,good value for money.,Negative,0,Genuine
+636,LED Monitor,1,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+637,Gaming Mouse,4,Good value for money.,good value for money.,Positive,2,Genuine
+638,LED Monitor,1,Good value for money.,good value for money.,Negative,0,Genuine
+639,Fitness Tracker,1,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+640,Gaming Mouse,3,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Neutral,1,Genuine
+641,Gaming Mouse,4,Works as advertised.,works as advertised.,Positive,2,Genuine
+642,Smartwatch,2,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+643,Bluetooth Speaker,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+644,Bluetooth Speaker,5,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+645,Mechanical Keyboard,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+646,Mechanical Keyboard,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+647,Smartwatch,3,Would not buy again.,would not buy again.,Neutral,1,Genuine
+648,Bluetooth Speaker,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+649,Smartwatch,5,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+650,Mechanical Keyboard,1,Good value for money.,good value for money.,Negative,0,Genuine
+651,Bluetooth Speaker,5,Good value for money.,good value for money.,Positive,2,Genuine
+652,Smartphone Case,5,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+653,Laptop Stand,3,Excellent quality and fast delivery.,excellent quality and fast delivery.,Neutral,1,Genuine
+654,Laptop Stand,3,Would not buy again.,would not buy again.,Neutral,1,Genuine
+655,Smartwatch,1,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+656,Smartwatch,3,Good value for money.,good value for money.,Neutral,1,Genuine
+657,Wireless Earbuds,3,"Average product, expected better.","average product, expected better.",Neutral,1,Genuine
+658,Mechanical Keyboard,5,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+659,Laptop Stand,1,Works as advertised.,works as advertised.,Negative,0,Genuine
+660,Laptop Stand,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+661,Bluetooth Speaker,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+662,Mechanical Keyboard,1,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+663,Wireless Earbuds,1,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+664,Gaming Mouse,4,Good value for money.,good value for money.,Positive,2,Genuine
+665,Mechanical Keyboard,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+666,Gaming Mouse,1,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+667,Portable Charger,5,Would not buy again.,would not buy again.,Positive,2,Genuine
+668,Mechanical Keyboard,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+669,Bluetooth Speaker,3,Good value for money.,good value for money.,Neutral,1,Genuine
+670,LED Monitor,5,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+671,LED Monitor,1,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+672,Fitness Tracker,3,Works as advertised.,works as advertised.,Neutral,1,Genuine
+673,Bluetooth Speaker,1,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+674,LED Monitor,1,Would not buy again.,would not buy again.,Negative,0,Genuine
+675,LED Monitor,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+676,Portable Charger,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+677,LED Monitor,1,Good value for money.,good value for money.,Negative,0,Genuine
+678,Mechanical Keyboard,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+679,Smartwatch,2,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+680,Fitness Tracker,2,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+681,Wireless Earbuds,3,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Neutral,1,Genuine
+682,Gaming Mouse,1,Would not buy again.,would not buy again.,Negative,0,Genuine
+683,Wireless Earbuds,5,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+684,Laptop Stand,4,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+685,Wireless Earbuds,3,Good value for money.,good value for money.,Neutral,1,Genuine
+686,Laptop Stand,4,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+687,Bluetooth Speaker,3,Exceeded my expectations!,exceeded my expectations!,Neutral,1,Genuine
+688,Wireless Earbuds,1,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+689,Bluetooth Speaker,2,Good value for money.,good value for money.,Negative,0,Genuine
+690,Wireless Earbuds,4,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+691,Wireless Earbuds,1,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+692,Wireless Earbuds,2,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+693,Fitness Tracker,4,Works as advertised.,works as advertised.,Positive,2,Genuine
+694,Mechanical Keyboard,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+695,Portable Charger,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+696,Mechanical Keyboard,3,"Average product, expected better.","average product, expected better.",Neutral,1,Genuine
+697,Wireless Earbuds,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+698,Smartwatch,3,Not satisfied with the build quality.,not satisfied with the build quality.,Neutral,1,Genuine
+699,Gaming Mouse,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+700,Gaming Mouse,5,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+701,Fitness Tracker,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+702,Wireless Earbuds,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+703,Mechanical Keyboard,3,Exceeded my expectations!,exceeded my expectations!,Neutral,1,Genuine
+704,Smartwatch,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+705,Fitness Tracker,4,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+706,LED Monitor,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+707,Gaming Mouse,5,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+708,Gaming Mouse,1,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+709,Smartphone Case,5,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+710,LED Monitor,4,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+711,Laptop Stand,4,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+712,Fitness Tracker,5,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+713,LED Monitor,3,Exceeded my expectations!,exceeded my expectations!,Neutral,1,Genuine
+714,Smartwatch,3,Works as advertised.,works as advertised.,Neutral,1,Genuine
+715,Laptop Stand,3,Good value for money.,good value for money.,Neutral,1,Genuine
+716,Bluetooth Speaker,5,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+717,Smartphone Case,5,Good value for money.,good value for money.,Positive,2,Genuine
+718,Smartphone Case,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+719,Bluetooth Speaker,2,Good value for money.,good value for money.,Negative,0,Genuine
+720,Gaming Mouse,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+721,Smartphone Case,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+722,Laptop Stand,1,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+723,Laptop Stand,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+724,Smartphone Case,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+725,Bluetooth Speaker,4,Good value for money.,good value for money.,Positive,2,Genuine
+726,Fitness Tracker,1,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+727,Gaming Mouse,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+728,Smartwatch,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+729,Mechanical Keyboard,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+730,Laptop Stand,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+731,Bluetooth Speaker,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+732,Gaming Mouse,5,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+733,Portable Charger,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+734,Bluetooth Speaker,2,Good value for money.,good value for money.,Negative,0,Genuine
+735,Wireless Earbuds,4,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+736,Smartphone Case,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+737,Gaming Mouse,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+738,Bluetooth Speaker,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+739,Fitness Tracker,2,Good value for money.,good value for money.,Negative,0,Genuine
+740,Mechanical Keyboard,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+741,Wireless Earbuds,2,Good value for money.,good value for money.,Negative,0,Genuine
+742,Smartwatch,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+743,LED Monitor,2,Good value for money.,good value for money.,Negative,0,Genuine
+744,LED Monitor,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+745,Smartwatch,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+746,LED Monitor,2,Works as advertised.,works as advertised.,Negative,0,Genuine
+747,LED Monitor,1,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+748,LED Monitor,2,Good value for money.,good value for money.,Negative,0,Genuine
+749,Smartphone Case,3,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Neutral,1,Genuine
+750,Gaming Mouse,3,Exceeded my expectations!,exceeded my expectations!,Neutral,1,Genuine
+751,Smartwatch,2,Good value for money.,good value for money.,Negative,0,Genuine
+752,Fitness Tracker,4,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+753,Smartwatch,1,Good value for money.,good value for money.,Negative,0,Genuine
+754,Mechanical Keyboard,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+755,Laptop Stand,4,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+756,Fitness Tracker,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+757,LED Monitor,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+758,Smartphone Case,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+759,Fitness Tracker,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+760,LED Monitor,1,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+761,Smartphone Case,1,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+762,Laptop Stand,4,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+763,Fitness Tracker,3,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Neutral,1,Genuine
+764,Bluetooth Speaker,4,Works as advertised.,works as advertised.,Positive,2,Genuine
+765,LED Monitor,2,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+766,Bluetooth Speaker,5,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+767,Smartphone Case,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+768,LED Monitor,1,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+769,LED Monitor,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+770,Laptop Stand,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+771,Laptop Stand,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+772,LED Monitor,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+773,Laptop Stand,1,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+774,Smartphone Case,3,Exceeded my expectations!,exceeded my expectations!,Neutral,1,Genuine
+775,Laptop Stand,2,Works as advertised.,works as advertised.,Negative,0,Genuine
+776,Fitness Tracker,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+777,Bluetooth Speaker,4,Works as advertised.,works as advertised.,Positive,2,Genuine
+778,Gaming Mouse,5,Works as advertised.,works as advertised.,Positive,2,Genuine
+779,Gaming Mouse,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+780,Smartphone Case,5,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+781,Portable Charger,4,Works as advertised.,works as advertised.,Positive,2,Genuine
+782,Fitness Tracker,5,Good value for money.,good value for money.,Positive,2,Genuine
+783,Smartphone Case,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+784,Gaming Mouse,3,Works as advertised.,works as advertised.,Neutral,1,Genuine
+785,Laptop Stand,5,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+786,Smartwatch,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+787,Laptop Stand,1,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+788,Mechanical Keyboard,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+789,Bluetooth Speaker,4,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+790,Gaming Mouse,4,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+791,Smartwatch,5,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+792,Mechanical Keyboard,1,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+793,Smartphone Case,5,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+794,Bluetooth Speaker,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+795,Mechanical Keyboard,4,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+796,Gaming Mouse,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+797,LED Monitor,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+798,Wireless Earbuds,1,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+799,Portable Charger,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+800,Mechanical Keyboard,1,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+801,Wireless Earbuds,3,"Average product, expected better.","average product, expected better.",Neutral,1,Genuine
+802,Gaming Mouse,4,Good value for money.,good value for money.,Positive,2,Genuine
+803,Smartphone Case,1,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+804,LED Monitor,5,Would not buy again.,would not buy again.,Positive,2,Genuine
+805,Smartwatch,3,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Neutral,1,Genuine
+806,Gaming Mouse,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+807,Smartphone Case,1,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+808,LED Monitor,1,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+809,Wireless Earbuds,5,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+810,Gaming Mouse,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+811,Portable Charger,1,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+812,Wireless Earbuds,3,Exceeded my expectations!,exceeded my expectations!,Neutral,1,Genuine
+813,Smartphone Case,3,Would not buy again.,would not buy again.,Neutral,1,Genuine
+814,Fitness Tracker,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+815,Portable Charger,1,Good value for money.,good value for money.,Negative,0,Genuine
+816,Laptop Stand,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+817,Laptop Stand,3,Works as advertised.,works as advertised.,Neutral,1,Genuine
+818,Portable Charger,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+819,LED Monitor,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+820,Gaming Mouse,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+821,Laptop Stand,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+822,Mechanical Keyboard,1,Works as advertised.,works as advertised.,Negative,0,Genuine
+823,Smartwatch,2,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+824,Smartwatch,4,Works as advertised.,works as advertised.,Positive,2,Genuine
+825,LED Monitor,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+826,Portable Charger,2,Good value for money.,good value for money.,Negative,0,Genuine
+827,Fitness Tracker,3,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Neutral,1,Genuine
+828,Wireless Earbuds,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+829,Bluetooth Speaker,4,Good value for money.,good value for money.,Positive,2,Genuine
+830,Smartwatch,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+831,LED Monitor,1,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+832,Mechanical Keyboard,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+833,Gaming Mouse,5,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+834,Laptop Stand,4,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+835,Wireless Earbuds,5,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+836,Wireless Earbuds,1,Good value for money.,good value for money.,Negative,0,Genuine
+837,Laptop Stand,5,Works as advertised.,works as advertised.,Positive,2,Genuine
+838,Smartwatch,4,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+839,Mechanical Keyboard,4,Good value for money.,good value for money.,Positive,2,Genuine
+840,Smartphone Case,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+841,Fitness Tracker,5,Would not buy again.,would not buy again.,Positive,2,Genuine
+842,Bluetooth Speaker,3,Exceeded my expectations!,exceeded my expectations!,Neutral,1,Genuine
+843,Laptop Stand,4,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+844,Gaming Mouse,1,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+845,Smartphone Case,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+846,Smartwatch,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+847,LED Monitor,2,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+848,Wireless Earbuds,5,Works as advertised.,works as advertised.,Positive,2,Genuine
+849,Wireless Earbuds,1,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+850,Smartphone Case,1,Good value for money.,good value for money.,Negative,0,Genuine
+851,Smartwatch,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+852,Fitness Tracker,3,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Neutral,1,Genuine
+853,LED Monitor,2,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+854,Smartphone Case,5,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+855,Wireless Earbuds,3,Good value for money.,good value for money.,Neutral,1,Genuine
+856,Fitness Tracker,2,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+857,Bluetooth Speaker,4,Works as advertised.,works as advertised.,Positive,2,Genuine
+858,LED Monitor,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+859,Smartphone Case,1,Good value for money.,good value for money.,Negative,0,Genuine
+860,Mechanical Keyboard,2,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+861,LED Monitor,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+862,Bluetooth Speaker,3,Not satisfied with the build quality.,not satisfied with the build quality.,Neutral,1,Genuine
+863,Smartphone Case,5,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+864,Fitness Tracker,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+865,Mechanical Keyboard,4,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+866,Fitness Tracker,5,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+867,Bluetooth Speaker,1,Would not buy again.,would not buy again.,Negative,0,Genuine
+868,Bluetooth Speaker,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+869,Smartwatch,3,Works as advertised.,works as advertised.,Neutral,1,Genuine
+870,Bluetooth Speaker,1,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+871,Portable Charger,2,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+872,Smartwatch,1,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+873,Wireless Earbuds,1,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+874,Mechanical Keyboard,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+875,Gaming Mouse,1,Works as advertised.,works as advertised.,Negative,0,Genuine
+876,Laptop Stand,3,Would not buy again.,would not buy again.,Neutral,1,Genuine
+877,Fitness Tracker,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+878,Fitness Tracker,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+879,LED Monitor,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+880,Smartphone Case,3,Not satisfied with the build quality.,not satisfied with the build quality.,Neutral,1,Genuine
+881,Gaming Mouse,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+882,LED Monitor,5,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+883,Laptop Stand,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+884,Bluetooth Speaker,3,Not satisfied with the build quality.,not satisfied with the build quality.,Neutral,1,Genuine
+885,Laptop Stand,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+886,Laptop Stand,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+887,Fitness Tracker,3,Excellent quality and fast delivery.,excellent quality and fast delivery.,Neutral,1,Genuine
+888,Laptop Stand,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+889,Smartwatch,2,Works as advertised.,works as advertised.,Negative,0,Genuine
+890,Laptop Stand,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+891,Wireless Earbuds,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+892,Fitness Tracker,3,Excellent quality and fast delivery.,excellent quality and fast delivery.,Neutral,1,Genuine
+893,Gaming Mouse,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+894,Mechanical Keyboard,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+895,Smartphone Case,5,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+896,Mechanical Keyboard,3,Works as advertised.,works as advertised.,Neutral,1,Genuine
+897,Bluetooth Speaker,5,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+898,Smartphone Case,1,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+899,Laptop Stand,2,Works as advertised.,works as advertised.,Negative,0,Genuine
+900,Laptop Stand,3,Not satisfied with the build quality.,not satisfied with the build quality.,Neutral,1,Genuine
+901,Fitness Tracker,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+902,Smartphone Case,5,Good value for money.,good value for money.,Positive,2,Genuine
+903,LED Monitor,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+904,Portable Charger,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+905,Wireless Earbuds,4,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+906,Fitness Tracker,5,Works as advertised.,works as advertised.,Positive,2,Genuine
+907,Fitness Tracker,2,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+908,LED Monitor,1,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+909,Laptop Stand,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+910,Laptop Stand,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+911,Mechanical Keyboard,2,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+912,Gaming Mouse,5,Good value for money.,good value for money.,Positive,2,Genuine
+913,Laptop Stand,4,Works as advertised.,works as advertised.,Positive,2,Genuine
+914,LED Monitor,1,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+915,LED Monitor,5,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+916,LED Monitor,5,Would not buy again.,would not buy again.,Positive,2,Genuine
+917,Wireless Earbuds,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+918,Portable Charger,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+919,Portable Charger,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+920,Wireless Earbuds,4,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+921,Portable Charger,2,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+922,Smartwatch,2,Good value for money.,good value for money.,Negative,0,Genuine
+923,Gaming Mouse,1,Would not buy again.,would not buy again.,Negative,0,Genuine
+924,Mechanical Keyboard,4,Good value for money.,good value for money.,Positive,2,Genuine
+925,Bluetooth Speaker,1,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+926,Mechanical Keyboard,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+927,Bluetooth Speaker,5,Would not buy again.,would not buy again.,Positive,2,Genuine
+928,Fitness Tracker,5,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+929,Fitness Tracker,4,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+930,Wireless Earbuds,5,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+931,Laptop Stand,1,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+932,LED Monitor,3,Good value for money.,good value for money.,Neutral,1,Genuine
+933,Fitness Tracker,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+934,Fitness Tracker,2,Good value for money.,good value for money.,Negative,0,Genuine
+935,Smartphone Case,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+936,Mechanical Keyboard,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+937,Wireless Earbuds,2,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+938,Mechanical Keyboard,1,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+939,LED Monitor,1,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+940,Portable Charger,1,Works as advertised.,works as advertised.,Negative,0,Genuine
+941,Wireless Earbuds,4,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+942,LED Monitor,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+943,Gaming Mouse,3,Battery life could be better.,battery life could be better.,Neutral,1,Genuine
+944,Wireless Earbuds,5,Good value for money.,good value for money.,Positive,2,Genuine
+945,Wireless Earbuds,1,Good value for money.,good value for money.,Negative,0,Genuine
+946,LED Monitor,1,Good value for money.,good value for money.,Negative,0,Genuine
+947,LED Monitor,3,Works as advertised.,works as advertised.,Neutral,1,Genuine
+948,Bluetooth Speaker,1,Would not buy again.,would not buy again.,Negative,0,Genuine
+949,Wireless Earbuds,3,Good value for money.,good value for money.,Neutral,1,Genuine
+950,Fitness Tracker,1,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+951,Mechanical Keyboard,4,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+952,Portable Charger,1,Good value for money.,good value for money.,Negative,0,Genuine
+953,Smartwatch,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+954,Laptop Stand,4,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+955,Fitness Tracker,2,Works as advertised.,works as advertised.,Negative,0,Genuine
+956,Mechanical Keyboard,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+957,Wireless Earbuds,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+958,Fitness Tracker,2,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+959,Fitness Tracker,2,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+960,Bluetooth Speaker,1,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+961,Smartwatch,4,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+962,Gaming Mouse,1,Would not buy again.,would not buy again.,Negative,0,Genuine
+963,Fitness Tracker,4,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+964,Fitness Tracker,2,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+965,Gaming Mouse,2,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+966,Gaming Mouse,5,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+967,Smartphone Case,4,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+968,Smartphone Case,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+969,Gaming Mouse,1,Exceeded my expectations!,exceeded my expectations!,Negative,0,Genuine
+970,Smartphone Case,2,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+971,Wireless Earbuds,4,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Positive,2,Genuine
+972,Fitness Tracker,2,Good value for money.,good value for money.,Negative,0,Genuine
+973,Fitness Tracker,1,"Average product, expected better.","average product, expected better.",Negative,0,Genuine
+974,Gaming Mouse,5,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+975,Bluetooth Speaker,5,"Average product, expected better.","average product, expected better.",Positive,2,Genuine
+976,Smartphone Case,4,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+977,Laptop Stand,2,Would not buy again.,would not buy again.,Negative,0,Genuine
+978,Gaming Mouse,3,Exceeded my expectations!,exceeded my expectations!,Neutral,1,Genuine
+979,Portable Charger,3,Good value for money.,good value for money.,Neutral,1,Genuine
+980,LED Monitor,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+981,Smartwatch,4,Would not buy again.,would not buy again.,Positive,2,Genuine
+982,Mechanical Keyboard,4,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+983,Fitness Tracker,1,Good value for money.,good value for money.,Negative,0,Genuine
+984,Gaming Mouse,1,"Amazing performance, highly recommend.","amazing performance, highly recommend.",Negative,0,Genuine
+985,Bluetooth Speaker,4,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Positive,2,Genuine
+986,Wireless Earbuds,4,Battery life could be better.,battery life could be better.,Positive,2,Genuine
+987,LED Monitor,1,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+988,Smartphone Case,4,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+989,LED Monitor,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+990,Gaming Mouse,1,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Negative,0,Genuine
+991,Fitness Tracker,3,Works as advertised.,works as advertised.,Neutral,1,Genuine
+992,Portable Charger,4,Not satisfied with the build quality.,not satisfied with the build quality.,Positive,2,Genuine
+993,Portable Charger,1,Battery life could be better.,battery life could be better.,Negative,0,Genuine
+994,Bluetooth Speaker,4,Excellent quality and fast delivery.,excellent quality and fast delivery.,Positive,2,Genuine
+995,Mechanical Keyboard,1,Excellent quality and fast delivery.,excellent quality and fast delivery.,Negative,0,Genuine
+996,Laptop Stand,5,Exceeded my expectations!,exceeded my expectations!,Positive,2,Genuine
+997,Bluetooth Speaker,2,Not satisfied with the build quality.,not satisfied with the build quality.,Negative,0,Genuine
+998,Laptop Stand,3,"Five stars, very happy with this purchase.","five stars, very happy with this purchase.",Neutral,1,Genuine
+999,Gaming Mouse,3,Exceeded my expectations!,exceeded my expectations!,Neutral,1,Genuine
+1000,Smartphone Case,3,Excellent quality and fast delivery.,excellent quality and fast delivery.,Neutral,1,Genuine

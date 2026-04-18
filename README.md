@@ -1,4 +1,4 @@
-Walnart Review Analyzer
+Walmart Review Analyzer
 
 A complete **Transformer-based NLP web application** that analyzes customer reviews and provides real-time sentiment insights along with interactive visualizations.
 
